@@ -27,12 +27,6 @@ garantindo que a IA nunca perca o contexto no meio do caminho.
 | 4 | **Código duplicado** — componentes repetidos sem visão do projeto | Cada issue analisa o codebase existente |
 | 5 | **IA desobediente** — muda arquivos que não deveria | PLAN.md lista arquivos exatos a criar/modificar |
 
-### Inspiração
-
-Inspirado no workflow **Anti-Vibe Coding** (Deb Folloni / Epic CLI / Traycer), que propõe separar radicalmente o planejamento da execução ao trabalhar com IA.
-
----
-
 ## 🎯 Filosofia
 
 > *"A IA nunca vê o projeto inteiro de uma vez — cada issue é pequena e autocontida."*
